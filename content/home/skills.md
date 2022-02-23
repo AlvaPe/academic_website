@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 'Since 2015, I have been developing my statistical analysis using R. More recently, I am also using <a href = "https://rmarkdown.rstudio.com/" target="_blank" rel="noopener noreferrer" style="color: #F76F8E">Rmarkdown</a>  to develop my quantitative reports, presentations, and this website.'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 'My work in Political Science has always been devoted to statistical analysis. I begin with OLS models with **interactions**, explore **multinomial probit** in the masters, now, I aim to implement in my dissertation **time-series** analysis.'
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 'My concern is _how people engage and interact with the political environment_. In my first contact with political behaviour, I find political sophistication the central mechanism to describe differences. In my master, I investigate the role of the information environment. Finally, I study today how elites shape engagement and response from their voters.'
+  icon: graduation-cap
   icon_pack: fas
-  name: Photography
+  name: Political Behavior
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
