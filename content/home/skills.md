@@ -24,10 +24,6 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 'My concern is _how people engage and interact with the political environment_. In my first contact with political behaviour, I find political sophistication the central mechanism to describe differences. In my master, I investigate the role of the information environment. Finally, I study today how elites shape engagement and response from their voters.'
-  icon: graduation-cap
-  icon_pack: fas
-  name: Political Behavior
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
