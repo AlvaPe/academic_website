@@ -1,9 +1,9 @@
 # Theme metadata
-name = "Minimal"
+name = "my_theme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#FFA07A"
 
   # Menu
   menu_primary = "#fff"
@@ -12,7 +12,7 @@ name = "Minimal"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
+  home_section_odd = "rgb(255, 160, 122)"
   home_section_even = "rgb(247, 247, 247)"
 
 [dark]
