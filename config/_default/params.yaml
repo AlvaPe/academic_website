@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: aperei65@uwo.ca
-phone: 226 503 32 38
+phone: 226 503 3238
 address:
   city: London
   region: 'ON'
@@ -33,7 +33,7 @@ coordinates:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Follow me
+    name: @Alvarojpereiraf
     link: 'https://twitter.com/Alvarojpereiraf'
 
 # Site header
