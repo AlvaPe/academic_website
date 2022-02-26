@@ -34,7 +34,7 @@ social:
   link: https://github.com/AlvaPe
 
 superuser: true
-title: Alvaro Pereira
+title: Alvaro J. P. Filho
 ---
 
 Hi! I am a Ph.D. candidate at the University of Western Ontario. 
