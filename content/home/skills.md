@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 'Since 2015, I have been developing my statistical analysis using R. More recently, I am also using <a href = "https://rmarkdown.rstudio.com/" target="_blank" rel="noopener noreferrer" style="color: #F76F8E">Rmarkdown</a>  to develop my quantitative reports, presentations, and this website.'
+- description: '*I am 7 years using R for data analysis, professional reports, lectures, and website building, including this one.*'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 'My work in Political Science has always been devoted to statistical analysis. I begin with OLS models with **interactions**, explore **multinomial probit** in the masters, now, I aim to implement in my dissertation **time-series** analysis.'
+- description: '*My academic research includes statistics. I have developed papers based on OLS with interactions, multinomial models, and, more recently, time-series analysis.*'
   icon: chart-line
   icon_pack: fas
   name: Statistics
