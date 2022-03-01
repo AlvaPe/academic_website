@@ -1,52 +1,38 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: O papel da educação formal na sofisticação política dos indivíduos é alvo de amplo debate. Entretanto, a educação, principalmente o ensino superior, fornece ferramentas para o entendimento sobre política, socializa valores cívicos e cria contatos sociais importantes para o acesso à informação, que são essenciais para a construção de um cidadão sofisticado. Utilizando-se do ESEB 2010 e 2014, avaliamos tanto a existência de efeito de cada grau de educação formal sobre o conhecimento factual de assuntos políticos. A partir dos resultados, afirmamos que a escolaridade não deve ser tratada de forma linear, já que o ensino superior aparece como divisor de águas na naturalização do mundo político, e, portanto, educação deve ser tratada através de categorias dicotômicas que represente cada grau educacional.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Robert Vidigal
+- Alvaro Pereira
+date: "2017-07-26T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/PDRFeeDniCk)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Em Tese, v.14*(1)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: 
+summary: A escolaridade não deve ser tratada de forma linear, já que o ensino superior aparece como divisor de águas na naturalização do mundo político, e, portanto, educação deve ser tratada através de categorias dicotômicas que represente cada grau educacional.
 tags:
-- Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- Political Behavior
+- Education
+- Political Knowledge
+- Brazilian Politics
+title: Educação e Conhecimento Político. Duas faces de uma mesma moeda ou moedas diferentes?
+url_code: ""
+url_dataset: https://www.cesop.unicamp.br/por/eseb
+url_pdf: https://periodicos.ufsc.br/index.php/emtese/article/view/1806-5023.2017v14n1p172/34561
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
