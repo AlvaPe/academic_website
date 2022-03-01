@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: EXPERIENCE
 subtitle:
 
 # Date format for experience
@@ -37,7 +37,7 @@ experience:
         * Prepare examinations
         * Grade final papers
         
-  - title: Research Consultancy
+  - title: Research Consultant
     company: Instituto Brasileiro de Pesquisa e Análise de Dados
     company_url: 'https://www.ibpad.com.br/'
     company_logo:

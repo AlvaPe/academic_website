@@ -34,12 +34,12 @@ social:
   link: https://github.com/AlvaPe
 
 superuser: true
-title: Alvaro J. P. Filho
+title:
 ---
 
 Hi! I am a Ph.D. candidate at the University of Western Ontario. 
 
-My research interests include **political behaviour**, **public opinion** and **experiments**. My dissertation studies the role played by party elites in explaining party identification. I also have special interest in Canadian and Brazilian politics.
+My research interests include **Political Behaviour**, **Public Opinion** and **Methodology**. My dissertation studies the role played by party elites in explaining party identification. I also have special interest in Canadian and Brazilian politics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pereira_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

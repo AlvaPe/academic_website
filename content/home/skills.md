@@ -9,18 +9,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: SKILLS
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: '*I am 7 years using R for data analysis, professional reports, lectures, and website building, including this one.*'
+- description: '*I am 7 years using R for Data Analysis, for Professional Reports, Lectures, and for Websites including this one.*'
   icon: r-project
   icon_pack: fab
   name: R
-- description: '*My academic research includes statistics. I have developed papers based on OLS with interactions, multinomial models, and, more recently, time-series analysis.*'
+- description: '*All my research skills include statistics. I have developed papers based on OLS with Interactions, Multinomial Models, and recently Time-series Analysis.*'
   icon: chart-line
   icon_pack: fas
   name: Statistics
@@ -39,4 +39,7 @@ feature:
 #  icon_pack: custom
 #  name: Surfing
 #  description: 90%
+
+design:
+  columns: '1'
 ---
