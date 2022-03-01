@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: '*I am 7 years using R for Data Analysis, for Professional Reports, Lectures, and for Websites including this one.*'
+- description: '*Seven years experience using R for Data Analysis, Professional Reports, Lectures, and Websites.*'
   icon: r-project
   icon_pack: fab
   name: R
