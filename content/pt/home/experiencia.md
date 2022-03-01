@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: EXPERIENCE
+title: EXPERIÊNCIA
 subtitle:
 
 # Date format for experience
@@ -22,22 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Volunteer Professor
-    company: University of Brasilia
+  - title: Professor Voluntário
+    company: Universidade de Brasília
     company_url: 'https://www.unb.br/'
     company_logo: org-unb
     location: Brasilia
     date_start: '2018-02-01'
     date_end: '2018-06-30'
     description: |2-
-        Responsibilities include:
+        Responsabilidades:
         
-        * Organize reference material
-        * Conduct lecture
-        * Prepare examinations
-        * Grade final papers
+        * Organização de material
+        * Condução de atividades em classe
+        * Preparação de exames
+        * Avaliação de trabalhos finais
         
-  - title: Research Consultant
+  - title: Consultor de pesquisa
     company: Instituto Brasileiro de Pesquisa e Análise de Dados
     company_url: 'https://www.ibpad.com.br/'
     company_logo:
@@ -45,11 +45,11 @@ experience:
     date_start: '2019-02-01'
     date_end: '2019-07-30'
     description: |2-
-        Responsibilities include:
+        Responsabilidades:
         
-        * Conduct surveys and experiments
-        * Implement code and data analysis
-        * Compile results and prepare professional reports for clients
+        * Condução de surveys e experimentos
+        * Implementação de códigos e análises
+        * Compilação de resultados em documentos para clientes
 
 design:
   columns: '2'

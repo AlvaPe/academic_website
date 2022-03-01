@@ -9,21 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: SKILLS
+title: HABILIDADES
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: '*I am 7 years using R for Data Analysis, for Professional Reports, Lectures, and for Websites including this one.*'
+- description: '*Uso R há 7 anos para Análise de dados, Documentos Profissionais, e para construção de websites como esse aqui.*'
   icon: r-project
   icon_pack: fab
   name: R
-- description: '*All my research skills include statistics. I have developed papers based on OLS with Interactions, Multinomial Models, and recently Time-series Analysis.*'
+- description: '*Toda minha pesquisa inclui estatística. Eu desenvolvo artigos baseados em modelos OLS com Interações, Modelos Multinomiais e mais recentemente Análises de Serie-Temporais.*'
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Estatística
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
