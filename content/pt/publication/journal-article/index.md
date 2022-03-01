@@ -22,10 +22,9 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: A escolaridade não deve ser tratada de forma linear, já que o ensino superior aparece como divisor de águas na naturalização do mundo político, e, portanto, educação deve ser tratada através de categorias dicotômicas que represente cada grau educacional.
 tags:
-- Political Behavior
-- Education
-- Political Knowledge
-- Brazilian Politics
+- Comportamento Político
+- Educação
+- Política Brasileira
 title: Educação e Conhecimento Político. Duas faces de uma mesma moeda ou moedas diferentes?
 url_code: ""
 url_dataset: https://www.cesop.unicamp.br/por/eseb
