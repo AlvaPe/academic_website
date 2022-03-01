@@ -2,20 +2,20 @@
 bio: 
 education:
   courses:
-  - course: PhD in Political Science
+  - course: PhD em Ciência Política
     institution: University of Western Ontario
     year: 2023
     
 email: ""
 highlight_name: true
 interests:
-- Political Behaviour
-- Public Opinion
-- Experiments
+- Comportamento Político
+- Opinião Pública
+- Metodologia
 organizations:
 - name: UWO
   url: https://www.uwo.ca/
-role: Ph.D. in Political Science
+role: Ph.D. em Ciência Política
 social:
 - icon: envelope
   icon_pack: fas
@@ -24,7 +24,7 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
+  label: Me siga no Twitter
   link: https://twitter.com/Alvarojpereiraf
 - icon: graduation-cap
   icon_pack: fas
@@ -37,9 +37,9 @@ superuser: true
 title:
 ---
 
-Hi! I am a Ph.D. candidate at the University of Western Ontario. 
+Olá! Eu sou estudante de Ph.D. na University of Western Ontario.
 
-My research interests include **Political Behaviour**, **Public Opinion** and **Methodology**. My dissertation studies the role played by party elites in explaining party identification. I also have special interest in Canadian and Brazilian politics.
+Minha dissertação investiga o papel das elites partidárias para a explicação da identificação dos partidários. Eu tenho interesse especial por política canadense e brasileira.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pereira_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download meu {{< staticref "uploads/pereira_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

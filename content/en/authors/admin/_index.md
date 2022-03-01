@@ -11,7 +11,7 @@ highlight_name: true
 interests:
 - Political Behaviour
 - Public Opinion
-- Experiments
+- Methodology
 organizations:
 - name: UWO
   url: https://www.uwo.ca/
@@ -39,7 +39,7 @@ title:
 
 Hi! I am a Ph.D. candidate at the University of Western Ontario. 
 
-My research interests include **Political Behaviour**, **Public Opinion** and **Methodology**. My dissertation studies the role played by party elites in explaining party identification. I also have special interest in Canadian and Brazilian politics.
+My dissertation studies the role played by party elites in explaining party identification. I also have special interest in Canadian and Brazilian politics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/pereira_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
