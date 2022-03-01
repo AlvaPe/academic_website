@@ -5,17 +5,17 @@ name = "Minimal"
 light = true
 
 # Primary
-primary = "#adb5bd"
+primary = "#1565c0"
 
 # Menu
-menu_primary = "#adb5bd"
+menu_primary = "#ffffff"
 menu_text = "#343a40"
 menu_text_active = "#212529"
 menu_title = "#343a40"
 
 # Home sections
-home_section_odd = "#ced4da"
-home_section_even = "#ced4da"
+home_section_odd = "#e5e5e5"
+home_section_even = "#e5e5e5"
 
 [dark]
   link = "#bbdefb"
