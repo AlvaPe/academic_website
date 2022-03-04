@@ -9,7 +9,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Political Behaviour
+- Political Behavior
 - Public Opinion
 - Methodology
 organizations:
