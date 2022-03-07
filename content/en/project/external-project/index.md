@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2022-01-11T00:00:00Z"
+external_link: https://politicalscience.uwo.ca/graduate/documents/outlines/2021-2022/9591bb.pdf
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by NeONBRAND on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Regression and Causal Inference (Methods 2).
 tags:
-- Demo
-title: External Project
+- Methodology
+title: Teaching Assistantship
 ---
