@@ -7,11 +7,8 @@ main:
   - name: HOME
     url: '#about'
     weight: 10
-  - name: SKILLS
-    url: '#skills'
-    weight: 15
-  - name: EXPERIENCE
-    url: '#experience'
+  - name: TEACHING
+    url: '#teaching'
     weight: 20
   - name: RESEARCH
     url: '#research'
