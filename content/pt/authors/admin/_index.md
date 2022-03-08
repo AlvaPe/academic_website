@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD em Ciência Política
     institution: University of Western Ontario
-    year: 2023
+    year:
     
 email: ""
 highlight_name: true
@@ -24,7 +24,7 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Me siga no Twitter
+  label: Siga lá
   link: https://twitter.com/Alvarojpereiraf
 - icon: graduation-cap
   icon_pack: fas
