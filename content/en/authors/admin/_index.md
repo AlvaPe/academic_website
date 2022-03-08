@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Western Ontario
-    year: 2023
+    year: 
     
 email: ""
 highlight_name: true
